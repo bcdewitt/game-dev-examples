@@ -1,0 +1,5 @@
+# README
+
+This example sets up basic HTML, CSS, and JS code to draw an image to a canvas. Canvas is a dynamic image we can use to make a game by updating it when things should appear to move. For now, though, we're just drawing a single image to it. This example looks like a lot because I tried to put it all into a single HTML file. Since it's all in one file, we can open this in the browser without using a server program because we won't run into a CORS issue - a type of security problem that browsers protect against.
+
+The web was designed for sharing information - mainly research documents. We use websites for so much more today, including web apps and stores, but it still revolves around the concept of a "document" that we request from another computer (usually via a URL). So, we still have to use a sort of HTML "wrapper". The next example will be the same as this one, but broken down into several separate files. I think you'll see how much easier it is to understand than this example.
